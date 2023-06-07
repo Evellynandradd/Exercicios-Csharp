@@ -1,0 +1,30 @@
+C:\Users\evell\OneDrive\Área de Trabalho\Dev\bin\Debug\net7.0\Dev.exe
+C:\Users\evell\OneDrive\Área de Trabalho\Dev\bin\Debug\net7.0\Dev.deps.json
+C:\Users\evell\OneDrive\Área de Trabalho\Dev\bin\Debug\net7.0\Dev.runtimeconfig.json
+C:\Users\evell\OneDrive\Área de Trabalho\Dev\bin\Debug\net7.0\Dev.dll
+C:\Users\evell\OneDrive\Área de Trabalho\Dev\bin\Debug\net7.0\Dev.pdb
+C:\Users\evell\OneDrive\Área de Trabalho\Dev\obj\Debug\net7.0\Dev.csproj.AssemblyReference.cache
+C:\Users\evell\OneDrive\Área de Trabalho\Dev\obj\Debug\net7.0\Dev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evell\OneDrive\Área de Trabalho\Dev\obj\Debug\net7.0\Dev.AssemblyInfoInputs.cache
+C:\Users\evell\OneDrive\Área de Trabalho\Dev\obj\Debug\net7.0\Dev.AssemblyInfo.cs
+C:\Users\evell\OneDrive\Área de Trabalho\Dev\obj\Debug\net7.0\Dev.csproj.CoreCompileInputs.cache
+C:\Users\evell\OneDrive\Área de Trabalho\Dev\obj\Debug\net7.0\Dev.dll
+C:\Users\evell\OneDrive\Área de Trabalho\Dev\obj\Debug\net7.0\refint\Dev.dll
+C:\Users\evell\OneDrive\Área de Trabalho\Dev\obj\Debug\net7.0\Dev.pdb
+C:\Users\evell\OneDrive\Área de Trabalho\Dev\obj\Debug\net7.0\Dev.genruntimeconfig.cache
+C:\Users\evell\OneDrive\Área de Trabalho\Dev\obj\Debug\net7.0\ref\Dev.dll
+C:\Dev\obj\Debug\net7.0\Dev.csproj.AssemblyReference.cache
+C:\Dev\obj\Debug\net7.0\Dev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\obj\Debug\net7.0\Dev.AssemblyInfoInputs.cache
+C:\Dev\obj\Debug\net7.0\Dev.AssemblyInfo.cs
+C:\Dev\obj\Debug\net7.0\Dev.csproj.CoreCompileInputs.cache
+C:\Dev\obj\Debug\net7.0\Dev.dll
+C:\Dev\obj\Debug\net7.0\refint\Dev.dll
+C:\Dev\obj\Debug\net7.0\Dev.pdb
+C:\Dev\bin\Debug\net7.0\Dev.exe
+C:\Dev\bin\Debug\net7.0\Dev.deps.json
+C:\Dev\bin\Debug\net7.0\Dev.runtimeconfig.json
+C:\Dev\bin\Debug\net7.0\Dev.dll
+C:\Dev\bin\Debug\net7.0\Dev.pdb
+C:\Dev\obj\Debug\net7.0\Dev.genruntimeconfig.cache
+C:\Dev\obj\Debug\net7.0\ref\Dev.dll
